@@ -4,8 +4,8 @@
 Un scanner de porturi avansat și colorat pentru Termux/Android și sisteme Linux/Windows. Creat de ALECS pentru comunitatea de securitate.
 
 ## 💻 Repository
-- GitHub: [@arian.222](https://github.com/arian.222)
-- Project: [Port Scanner](https://github.com/arian.222/port-scanner)
+- GitHub: [@arian.222](https://github.com/arian222)
+- Project: [Port Scanner](https://github.com/arian222/port-scanner)
 
 ## 🌟 Caracteristici Principale
 
@@ -40,7 +40,7 @@ pkg update && pkg upgrade
 pkg install python git
 
 # Clonare repository
-git clone https://github.com/arian.222/port-scanner
+git clone https://github.com/arian222/port-scanner
 cd port-scanner
 
 # Permisiuni execuție
@@ -50,7 +50,7 @@ chmod +x port_scanner.py
 ### Pentru Linux/Windows
 ```bash
 # Clonare repository
-git clone https://github.com/arian.222/port-scanner
+git clone https://github.com/arian222/port-scanner
 cd port-scanner
 
 # Instalare dependințe (dacă este necesar)
@@ -131,7 +131,7 @@ ALECS - Expert în Securitate
 ### Contact
 - 💬 Telegram: @alecss12
 - 📱 WhatsApp: +40732159658
-- 🌐 GitHub: [@arian.222](https://github.com/arian.222)
+- 🌐 GitHub: [@arian222](https://github.com/arian222)
 
 ### Suport
 Pentru suport tehnic sau raportare probleme, contactați-mă pe Telegram sau WhatsApp.
@@ -140,4 +140,4 @@ Pentru suport tehnic sau raportare probleme, contactați-mă pe Telegram sau Wha
 Acest proiect este distribuit sub licența MIT.
 
 ---
-Created with ❤️ by ALECS | GitHub: [@arian.222](https://github.com/arian.222) 
+Created with ❤️ by ALECS | GitHub: [@arian.222](https://github.com/arian222) 
